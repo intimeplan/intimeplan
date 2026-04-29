@@ -1,13 +1,13 @@
 # Planemitn 官方頁面
 
 <br>
-🎉 嗨，您發現了這裡，這裡是開發小組的統一消息發布渠道。<br>
+🎉 嗨，您發現了這裡，這裡是開發小組唯一的消息發布渠道。<br>
 <br>
 
 ## 開發作品
 
 <br>
-目前這裡會列出我們發布的作品與連結，提供您確認，請只在裝置對應的平台連結取得作品，以確保品質。<br>
+這裡會列出我們發布的作品與連結，提供您確認，請只在裝置對應的發布連結取得作品，以確保應用程式品質。<br>
 <br>
 
 ### 🕹️ 混戰暗棋 (Flips Clash)
@@ -20,7 +20,7 @@
 發布連結：<br>
 <br>
 
-| 系統 | 發布連結 |
+| 裝置 | 發布連結 |
 | :---: | :---: |
 | <br>iOS<br><br> | [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/tw/app/%E6%B7%B7%E6%88%B0%E6%9A%97%E6%A3%8B/id6759037829) 
 | <br>Android<br><br> | [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.planemitin.flipsclash)
