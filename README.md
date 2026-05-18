@@ -33,6 +33,6 @@
 | :---: | :---: |
 | <br>隱私權政策<br><br> | [![Privacy Policy](https://img.shields.io/badge/Privacy_Policy-blue?style=flat-square&logo=gitbook&logoColor=white)](https://planemitn.gitbook.io/docs/flips-clash-privacy-policy) 
 | <br>問題回報<br><br> | [![Support](https://img.shields.io/badge/Google_Forms-7248B3?style=flat-square&logo=googleforms&logoColor=white)](https://forms.gle/w8iGLdnaLjChB4Zf7) 
-| <br>問題回報<br><br> | [![Support](https://img.shields.io/badge/GitHub_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/users/intimeplan/projects/1)
+| <br>佈告欄<br><br> | [![Support](https://img.shields.io/badge/GitHub_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/users/intimeplan/projects/1)
 
 
